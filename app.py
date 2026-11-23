@@ -34,6 +34,7 @@ def main ():
     st.write(
         'welcome to L-diagnostic. this is our Diabetes prediction model'
     )
+    st.warning('STRICTLY FOR DEMONSTRATION')
     
     st.header('Medical Report')
     st.write('Please enter your diabetes lab report here')
