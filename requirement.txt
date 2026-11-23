@@ -1,0 +1,5 @@
+Pandas version: 3.0.5
+NumPy version: 2.5.1
+Scikit-learn version: 1.9.0
+seaborn version: 0.13.2
+streamlit version: 1.67.0
